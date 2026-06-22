@@ -74,4 +74,4 @@ src/
 
 ## Author
 
-Deepan Chakkravarthy
+Deepan C V
