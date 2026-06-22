@@ -74,6 +74,4 @@ src/
 
 ## Author
 
-Deepan Chakravarthy
-
-BE Computer Science and Engineering (3rd Year)
+Deepan Chakkravarthy
